@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Environments
+.venv/
+venv/
+.conda/
+
+# Local data and model artifacts
+data/*.csv
+data/*.sdf
+data/**/*.csv
+data/**/*.sdf
+artifacts/
+checkpoints/
+ckpt/
+*.pt
+*.pth
+*.ckpt
+
+# Notebook and OS noise
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

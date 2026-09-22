@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
+  <title id="title">Archived five-fold RMSE</title>
+  <desc id="desc">Fold RMSE values are 0.3333, 0.3715, 0.4166, 0.3537, and 0.4041. Overall mean is 0.3759 plus or minus 0.0309.</desc>
+  <rect width="900" height="360" rx="22" fill="#f3f7fa"/>
+  <text x="48" y="50" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#0b2e4c">Archived 5-fold test RMSE</text>
+  <text x="48" y="79" font-family="Arial, sans-serif" font-size="16" fill="#607184">Overall 0.375852 ± 0.030916 · three-target regression log</text>
+  <line x1="70" y1="285" x2="845" y2="285" stroke="#b8cbd7" stroke-width="2"/>
+  <line x1="70" y1="113" x2="845" y2="113" stroke="#d8e3ea" stroke-width="1" stroke-dasharray="6 6"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(120 0)"><rect y="191" width="95" height="94" rx="9" fill="#2aa9d6"/><text x="47" y="181" font-size="16" font-weight="700" fill="#0b2e4c">0.3333</text><text x="47" y="315" font-size="15" fill="#607184">Fold 0</text></g>
+    <g transform="translate(270 0)"><rect y="160" width="95" height="125" rx="9" fill="#006eb8"/><text x="47" y="150" font-size="16" font-weight="700" fill="#0b2e4c">0.3715</text><text x="47" y="315" font-size="15" fill="#607184">Fold 1</text></g>
+    <g transform="translate(420 0)"><rect y="123" width="95" height="162" rx="9" fill="#35c3a5"/><text x="47" y="113" font-size="16" font-weight="700" fill="#0b2e4c">0.4166</text><text x="47" y="315" font-size="15" fill="#607184">Fold 2</text></g>
+    <g transform="translate(570 0)"><rect y="174" width="95" height="111" rx="9" fill="#f28a2e"/><text x="47" y="164" font-size="16" font-weight="700" fill="#0b2e4c">0.3537</text><text x="47" y="315" font-size="15" fill="#607184">Fold 3</text></g>
+    <g transform="translate(720 0)"><rect y="133" width="95" height="152" rx="9" fill="#7a78d1"/><text x="47" y="123" font-size="16" font-weight="700" fill="#0b2e4c">0.4041</text><text x="47" y="315" font-size="15" fill="#607184">Fold 4</text></g>
+  </g>
+  <line x1="85" y1="157" x2="840" y2="157" stroke="#0b2e4c" stroke-width="3" stroke-dasharray="10 7"/>
+  <text x="835" y="149" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#0b2e4c">mean 0.3759</text>
+</svg>
